@@ -1,0 +1,51 @@
+* {
+    background-color: rgb(51, 48, 80);
+    color:rgb(255, 255, 255)
+}
+body{
+    background-color: rgb(51, 48, 80);
+    color:rgb(255, 255, 255)
+}
+img{
+    max-width:30%;
+}
+h1{
+    text-align: center;
+    margin: auto;
+    width: 50%;
+}
+h2{
+    text-align: center;
+    margin: auto;
+    width: 50%;
+}
+p{
+    text-align: left;
+    margin: auto;
+    width: 50%;
+}
+div{
+    text-align: center;
+    margin: auto;
+    width: 80%;
+}
+.Projects p {
+    margin: auto;
+    width: 60%;
+
+}
+.Projects ul {
+    margin: auto;
+    width: 50%;
+}
+.Projects li {
+    text-align: left;
+}
+.models img{
+    transition:transform 0.25s ease;
+    margin: .25em;
+}
+.models img:hover{
+    -webkit-transform:scale(2);
+    transform: scale(2);
+}
