@@ -20,6 +20,7 @@ h2{
     width: 50%;
 }
 #head{
+    display: block;
     margin: auto;
     width: 50%;
     
